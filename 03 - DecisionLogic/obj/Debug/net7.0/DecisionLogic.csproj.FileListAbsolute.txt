@@ -1,0 +1,28 @@
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.exe
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.deps.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.runtimeconfig.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\bin\Debug\net7.0\DecisionLogic.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.AssemblyInfoInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.AssemblyInfo.cs
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.csproj.CoreCompileInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\refint\DecisionLogic.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\DecisionLogic.genruntimeconfig.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\DecisionLogic\obj\Debug\net7.0\ref\DecisionLogic.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\bin\Debug\net7.0\DecisionLogic.exe
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\bin\Debug\net7.0\DecisionLogic.deps.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\bin\Debug\net7.0\DecisionLogic.runtimeconfig.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\bin\Debug\net7.0\DecisionLogic.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\bin\Debug\net7.0\DecisionLogic.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\DecisionLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\DecisionLogic.AssemblyInfoInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\DecisionLogic.AssemblyInfo.cs
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\DecisionLogic.csproj.CoreCompileInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\DecisionLogic.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\refint\DecisionLogic.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\DecisionLogic.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\DecisionLogic.genruntimeconfig.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\03 - DecisionLogic\obj\Debug\net7.0\ref\DecisionLogic.dll

@@ -1,0 +1,14 @@
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\bin\Debug\net7.0\BasicCSharp.exe
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\bin\Debug\net7.0\BasicCSharp.deps.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\bin\Debug\net7.0\BasicCSharp.runtimeconfig.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\bin\Debug\net7.0\BasicCSharp.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\bin\Debug\net7.0\BasicCSharp.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\BasicCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\BasicCSharp.AssemblyInfoInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\BasicCSharp.AssemblyInfo.cs
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\BasicCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\BasicCSharp.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\refint\BasicCSharp.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\BasicCSharp.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\BasicCSharp.genruntimeconfig.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\BasicCSharp\obj\Debug\net7.0\ref\BasicCSharp.dll

@@ -1,0 +1,14 @@
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\bin\Debug\net7.0\04 - ArrayBasics.exe
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\bin\Debug\net7.0\04 - ArrayBasics.deps.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\bin\Debug\net7.0\04 - ArrayBasics.runtimeconfig.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\bin\Debug\net7.0\04 - ArrayBasics.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\bin\Debug\net7.0\04 - ArrayBasics.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\04 - ArrayBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\04 - ArrayBasics.AssemblyInfoInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\04 - ArrayBasics.AssemblyInfo.cs
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\04 - ArrayBasics.csproj.CoreCompileInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\04 - ArrayBasics.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\refint\04 - ArrayBasics.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\04 - ArrayBasics.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\04 - ArrayBasics.genruntimeconfig.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\C# Microsoft Learn\CsharpProjects\04 - ArrayBasics\obj\Debug\net7.0\ref\04 - ArrayBasics.dll

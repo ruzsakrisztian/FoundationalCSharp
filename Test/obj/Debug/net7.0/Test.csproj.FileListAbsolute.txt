@@ -1,0 +1,14 @@
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\bin\Debug\net7.0\Test.exe
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\bin\Debug\net7.0\Test.deps.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\bin\Debug\net7.0\Test.runtimeconfig.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\bin\Debug\net7.0\Test.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\bin\Debug\net7.0\Test.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\Test.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\refint\Test.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\Test.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\Test.genruntimeconfig.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\Test\obj\Debug\net7.0\ref\Test.dll
