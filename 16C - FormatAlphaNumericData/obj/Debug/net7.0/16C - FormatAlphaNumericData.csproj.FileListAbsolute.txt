@@ -1,0 +1,14 @@
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\16C - FormatAlphaNumericData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\16C - FormatAlphaNumericData.AssemblyInfoInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\16C - FormatAlphaNumericData.AssemblyInfo.cs
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\16C - FormatAlphaNumericData.csproj.CoreCompileInputs.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\bin\Debug\net7.0\16C - FormatAlphaNumericData.exe
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\bin\Debug\net7.0\16C - FormatAlphaNumericData.deps.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\bin\Debug\net7.0\16C - FormatAlphaNumericData.runtimeconfig.json
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\bin\Debug\net7.0\16C - FormatAlphaNumericData.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\bin\Debug\net7.0\16C - FormatAlphaNumericData.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\16C - FormatAlphaNumericData.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\refint\16C - FormatAlphaNumericData.dll
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\16C - FormatAlphaNumericData.pdb
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\16C - FormatAlphaNumericData.genruntimeconfig.cache
+C:\Users\Krisz\OneDrive\Dokumentumok\Munka, tanulás\Programozás\MicrosoftLearn_GetStartedWithC#\CSharpProjects\16C - FormatAlphaNumericData\obj\Debug\net7.0\ref\16C - FormatAlphaNumericData.dll

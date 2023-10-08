@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "16C - FormatAlphaNumericData/1.0.0": {
+        "runtime": {
+          "16C - FormatAlphaNumericData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "16C - FormatAlphaNumericData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
