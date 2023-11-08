@@ -30,7 +30,7 @@ while (!shouldExit)
     if (ShouldBeFreezed())
         FreezePlayer();
     
-    Move(exitOnNonDirectional: false, speedCanChange: false);
+    Move(exitOnNonDirectional: false);
     
     if (TerminalResized())
     {
@@ -75,6 +75,7 @@ bool IsConsumed()
     return ((Math.Abs(playerX - foodX) < 5) && (playerY == foodY)) ? true : false;
 }
 
+
 // Changes the player to match the food consumed
 void ChangePlayer()
 {
@@ -96,7 +97,7 @@ bool ShouldBeFreezed()
 }
 
 // Reads directional input from the Console and moves the player
-void Move(bool exitOnNonDirectional = false, bool speedCanChange = false)
+void Move(bool exitOnNonDirectional = false, bool speedCanChange = true)
 {
     int lastX = playerX;
     int lastY = playerY;
